@@ -1,0 +1,8 @@
+CSS reset:
+http://perishablepress.com/a-killer-collection-of-global-css-reset-styles/
+
+Normalize:
+https://github.com/necolas/normalize.css/
+
+CSS properties:
+http://www.w3schools.com/cssref/
